@@ -1,0 +1,15 @@
+{
+	"name": "starter-code",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"start": "node src/server.mjs"
+	},
+	"author": "Ashish Gurjar",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1",
+		"mongoose": "^6.3.2",
+		"morgan": "^1.10.0"
+	}
+}
